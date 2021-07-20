@@ -1,0 +1,8 @@
+This Kaggle link https://www.kaggle.com/karthickveerakumar/orders-data consists of dataset of item orders. The dataset orders has 3 categories detail, compact 
+and column.In detail category,it consists of 5000 rows and 138 columns with statistical figure. The rows represents customer id with their items purchase list. 
+The column represents 134 items includes food items, accessories, grocery items , beauty products and junk foods. The remaining 4 columns represents the
+number of orders  placed in day of the week,hour of the day and  day since prior orders. By clicking each column name we can sort it by ascending or descending 
+order.In compact category,it shows raw data of rows and columns as same as previous case.In column category, it shows statistical figure for each item with 
+valid,Mismatched,Missing,Mean,Std. Deviation and Quantiles.
+
+
